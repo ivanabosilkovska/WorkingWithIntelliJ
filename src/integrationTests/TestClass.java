@@ -24,6 +24,7 @@ public class TestClass {
         // EDNA LINIJA NA KOMENTAR
 
         System.out.println("Learning IntelliJ");
+        System.out.println("Learning GIT");
 
     }
 
