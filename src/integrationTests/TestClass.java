@@ -25,6 +25,7 @@ public class TestClass {
 
         System.out.println("Learning IntelliJ");
         System.out.println("Learning GIT");
+        System.out.println("commiting using Intellij");
 
     }
 
