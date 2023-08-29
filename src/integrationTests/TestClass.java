@@ -23,6 +23,8 @@ public class TestClass {
 
         System.out.println("pushing");
 
+        System.out.println(" git bash push");
+
         // EDNA LINIJA NA KOMENTAR
 
         System.out.println("Learning IntelliJ");
