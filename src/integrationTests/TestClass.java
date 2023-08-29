@@ -19,6 +19,7 @@ public class TestClass {
         System.out.println("Hello World!");
         sayHello("Sofija");
         sayGoodBye("Tea");
+        System.out.println("Commit revert");
 
 
         // EDNA LINIJA NA KOMENTAR
