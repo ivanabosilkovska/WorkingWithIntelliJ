@@ -21,6 +21,7 @@ public class TestClass {
         sayGoodBye("Tea");
         System.out.println("amend1");
 
+        System.out.println("pushing");
 
         // EDNA LINIJA NA KOMENTAR
 
