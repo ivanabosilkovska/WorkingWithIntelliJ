@@ -29,7 +29,8 @@ public class TestClass {
 
         System.out.println("Learning IntelliJ");
         System.out.println("Learning GIT");
-        System.out.println("commiting using Intellij");
+        System.out.println("commiting using Intellij- test");
+        System.out.println("Git GUI");
 
     }
 
